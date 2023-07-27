@@ -1,0 +1,22 @@
+ Buenas tardes, mi nombre es david y junto a mis compañeros vamos a comentar nuestra aplicacion.
+
+Primero la aplicacion se llamará my battery charger creemos que es un gran titulo ya que literalmente funcionara para cargar bateria.
+
+La aplicacion tendrá varias funciones y un registro para guardar los datos de los clientes y otra con los porcentajes que ha generado de carga dicho cliente
+
+Tambien podrá contactar con otras clientes y poder comunicarse entre ellos para poder darse bateria. 
+
+Ahora os dejo con mis compañeros. Gracias.
+
+
+
+
+Good afternoon, my name is David and together with my colleagues we are going to discuss our application.
+
+First the app will be called my battery charger we think it's a great title as it will literally work to charge your battery.
+
+The application will have several functions and a record to save customer data and another with the percentages that the customer has generated.
+
+You can also contact other clients and be able to communicate with each other to be able to give yourself a battery.
+
+Now I leave you with my companions. Thanks.
